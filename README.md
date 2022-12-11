@@ -10,5 +10,3 @@
   - [*Лабораторная работа 8. Разработка графического интерфейса*](https://github.com/DianaBarinova/Lab8-UI)
 - **Примеры с лекций**
   - [*Abstract Factory*](https://github.com/DianaBarinova/Abstract_Factory)
-
-- **Коллоквиумы**
