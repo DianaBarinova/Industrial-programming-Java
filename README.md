@@ -2,6 +2,6 @@
 - **Лабораторные работы**
 
 - **Примеры с лекций**
-  - *Abstract Factory*
+  - [*Abstract Factory*](https://github.com/DianaBarinova/Abstract_Factory)
 
 - **Коллоквиумы**
