@@ -1,2 +1,2 @@
 # industrial-programming
-industrial programming
+Industrial programming Java
