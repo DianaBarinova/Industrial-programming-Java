@@ -1,2 +1,4 @@
 # Industrial programming Java
-- **Examples from lectures**
+- **Примеры с лекций**
+- **Лабораторные работы**
+- **Коллоквиумы**
