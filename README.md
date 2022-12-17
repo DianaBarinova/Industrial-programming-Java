@@ -9,6 +9,6 @@
   - [*Лабораторная работа 7. Работа со Stream*](https://github.com/DianaBarinova/Lab_7_Book_Stream)
   - [*Лабораторная работа 8. Работа с файлом в формате json*](https://github.com/DianaBarinova/Lab8-json)
   - [*Лабораторная работа 9. Разработка графического интерфейса*](https://github.com/DianaBarinova/Lab8-UI)
-  - Лабораторная работа 10. Разработка графического интерфейса - TableView
+  - [*Лабораторная работа 10. Разработка графического интерфейса - TableView*](https://github.com/DianaBarinova/Lab/tree/master)
 - **Примеры с лекций**
   - [*Abstract Factory*](https://github.com/DianaBarinova/Abstract_Factory)
