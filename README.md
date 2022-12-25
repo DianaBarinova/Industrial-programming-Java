@@ -12,3 +12,4 @@
   - [*Лабораторная работа 10. Разработка графического интерфейса - TableView*](https://github.com/DianaBarinova/Lab/tree/master)
 - **Примеры с лекций**
   - [*Abstract Factory*](https://github.com/DianaBarinova/Abstract_Factory)
+  - [*Singleton*](https://github.com/DianaBarinova/Singleton)
