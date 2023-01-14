@@ -14,3 +14,6 @@
   - [*Abstract Factory*](https://github.com/DianaBarinova/Abstract_Factory)
   - [*Singleton*](https://github.com/DianaBarinova/Singleton)
   - [*Decorator*](https://github.com/DianaBarinova/Decorator)
+  
+  
+  [**Сквозная задача**]
