@@ -1,6 +1,6 @@
 # Industrial programming Java
 - **Лабораторные работы**
-  - [*Лабораторная работа 1. Тейлор*](https://github.com/DianaBarinova/Lab1_Taylor_java)
+  - [*Лабораторная работа 1. Тейлор(с тестами)*](https://github.com/DianaBarinova/Lab1_Taylor_java)
   - [*Лабораторная работа 2. Работа с двумерными массивами*](https://github.com/DianaBarinova/Lab2_Matrix_java)
   - [*Лабораторная работа 3. Работа со строками*](https://github.com/DianaBarinova/Lab3_String_java)
   - [*Лабораторная работа 4. Регулярные выражения*](https://github.com/DianaBarinova/Lab4_Regex_java)
