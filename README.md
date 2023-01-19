@@ -16,4 +16,4 @@
   - [*Decorator*](https://github.com/DianaBarinova/Decorator)
   
   
-  [**Сквозная задача**](https://github.com/DianaBarinova/skvoznay_zadacha)
+  [**Сквозная задача**](https://github.com/DianaBarinova/Skvoznay_zadacha_)
